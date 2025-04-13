@@ -94,7 +94,7 @@ Our platform tackles these challenges by:
 - **JDK:** Ensure you have Java Development Kit (JDK 8 or later) installed.
 - **Git:** For cloning the repository.
 
-### Contributing
+## Contributing
 Contributions are welcome! Please follow these steps:
 
 - Fork the repository.
